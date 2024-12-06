@@ -1,11 +1,39 @@
-# Sample Snack app
+﻿# Meta React Native Specialization - Working With Data | Portfolio-Project
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Description
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+For the Meta React Native Specialization - Working With Data | Portfolio-Project, I completed the excercises what asked in these part of the Meta React Native Specialization course.
+This is a functional React Native App, where the user can search and querying items based on the user inputs. 
+ 
+## Screenshot(s)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### Application:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+![Screenshot](screenshots/screenshot-1.png)
+![Screenshot](screenshots/screenshot-2.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Used Software(s)
+- Visual Studio Code
+- Android Studio
+
+## Run Locally
+
+Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+Clone my repository
+```bash
+  https://github.com/istvanszasz99/Meta_React_Native_Specialization_Working_With_Data_Portfolio_Project.git
+```
+
+Go to the project directory & install dependencies
+```bash
+  npm install
+```
+
+View project in Emulator or Physical Device
+```bash
+  npm start
+```
+
+## Author
+- [@istvanszasz99](https://www.github.com/istvanszasz99)
